@@ -1,4 +1,4 @@
-## Bem-vindo ao perfil ao meu perfil 😎
+## Bem-vindo ao meu perfil 😎
 
  <div>
    <a href="https://github.com/andreia-tofoli">
